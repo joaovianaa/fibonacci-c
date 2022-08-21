@@ -1,1 +1,1 @@
-Exercício de linguagem usando a formula de Fibonacci em C.
+Exercício de linguagem usando a sequencia de Fibonacci em C.
